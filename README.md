@@ -1,6 +1,6 @@
 # Pre-work - *tippy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tippy** is a tip calculator application for iOS.
 
 Submitted by: **Grace Yan-yee Leung**
 
@@ -39,7 +39,7 @@ In the beginning, I didn't realize my user interface need to be set to storyboar
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Grace Leung]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
