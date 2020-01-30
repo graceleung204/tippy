@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 The Xcode does not connect to github. 
+I am still unable to copy it directly from Xcode, therefore i uploaded the files to github by myself. Hope, you can read my codes nicely and work out nicely. 
 In the beginning, I didn't realize my user interface need to be set to storyboard, so at first I create the app interface in launchboard.storyboard instead of main
 
 ## License
